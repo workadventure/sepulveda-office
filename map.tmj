@@ -820,12 +820,6 @@
                  "y":145.925356925277
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"editor"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
